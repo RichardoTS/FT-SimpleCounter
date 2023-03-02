@@ -1,4 +1,11 @@
-
+.stopWatch div{
+    display: inline-block;
+    font-size: 40px;
+    background: black;
+    color: white;
+    height: 70px;
+    width: 70px;
+}
 /* 
 
     You can write your own styles here...
