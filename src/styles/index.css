@@ -1,3 +1,4 @@
+
 .stopWatch div{
     display: inline-block;
     font-size: 40px;
@@ -5,15 +6,12 @@
     color: white;
     height: 70px;
     width: 70px;
+    border-radius: 5%;
+    justify-content: center;    
 }
 /* 
-
-    You can write your own styles here...
-    
-    
+    You can write your own styles here...    
     ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
+    other sylesheets into your bunde as well, e.j:    
     import 'relative/path/to/stylesheet.scss';
-
 */
